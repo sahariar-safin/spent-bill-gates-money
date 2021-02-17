@@ -18,7 +18,7 @@ const showItem = (data) => {
                         <div class="count d-flex justify-content-center">
                             <button onclick="decrementItemCount('${ element.name }',' ${ element.price }')" id="sell" class="btn btn-light">Sell</button>
                             <input id="${ element.name }" type="number" value="0" class="form-control text-center w-25">
-                            <button onclick="incrementItemCount('${ element.name }',' ${ element.price }')" id="buy" class="btn btn-success">Buy</button>
+                            <button onclick="incrementItemCount('${ element.name }',' ${ element.price }')" id="buy" class="btn">Buy</button>
                         </div>
                     </div>
     `;

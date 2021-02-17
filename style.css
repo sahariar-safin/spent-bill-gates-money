@@ -4,11 +4,20 @@ body{
 header{
     height: 100px;
 }
+.bank-balance{
+    background: linear-gradient(rgb(46, 204, 113), rgb(26, 188, 156))
+}
 .title h1{
     padding-top: 30px;
 }
 .item img{
     height: 120px;
+}
+#buy {
+    background: linear-gradient(rgb(46, 204, 113), rgb(26, 188, 156))
+}
+.count input{
+    margin: 0px 10px;
 }
 footer p {
     font-size: 20px;
