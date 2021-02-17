@@ -10,3 +10,7 @@ header{
 .item img{
     height: 120px;
 }
+footer p {
+    font-size: 20px;
+    text-align: center;
+}
