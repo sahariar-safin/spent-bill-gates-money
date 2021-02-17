@@ -29,11 +29,16 @@ const showItem = (data) => {
 
 
 const incrementItemCount = (name, price) => {
-    let itemCount = document.getElementById(name);
-    let itemCounted = parseInt(itemCount.value) + 1;
-    let total = itemCounted * parseInt(price);
-    itemCount.value = itemCounted;
-    bank(total);
+    var bankBalance = document.getElementById('bank-balance');
+    if (parseInt(bankBalance.innerHTML) > 0) {
+        let itemCount = document.getElementById(name);
+        let itemCounted = parseInt(itemCount.value) + 1;
+        let total = itemCounted * parseInt(price);
+        itemCount.value = itemCounted;
+        bank(total);
+    } else {
+        bankBalance.innerHTML = "Insufficiant Funds!";
+    }
 };
 const decrementItemCount = (name, price) => {
     let itemCount = document.getElementById(name);
@@ -46,8 +51,12 @@ const decrementItemCount = (name, price) => {
 };
 const bank = (cost) => {
     var bankBalance = document.getElementById('bank-balance');
-    const currentBalance = 100000000000 - parseInt(cost);
-    bankBalance.innerHTML = currentBalance;
+    if (parseInt(bankBalance.innerHTML) > 0) {
+        const currentBalance = 100000000000 - parseInt(cost);
+        bankBalance.innerHTML = currentBalance;
+    } else {
+        bankBalance.innerHTML = "Insufficiant Funds!";
+    }
 };
 
 const bank4 = (cost) => {
