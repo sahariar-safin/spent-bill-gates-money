@@ -1,0 +1,9 @@
+body{
+    background-color: bisque;
+}
+header{
+    height: 100px;
+}
+.title h1{
+    padding-top: 30px;
+}
