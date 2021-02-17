@@ -142,86 +142,86 @@
     {
         "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/monster-truck.jpg",
         "name": "Monster Truck",
-        "price": "150,000"
+        "price": "150000"
     },
     {
         "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/ferrari.jpg",
         "name": "Ferrari",
-        "price": "250,000"
+        "price": "250000"
     },
     {
         "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/single-family-home.jpg",
         "name": "Single Family Home",
-        "price": "300,000"
+        "price": "300000"
     },
     {
         "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/gold-bar.jpg",
         "name": "Gold Bar",
-        "price": "700,000"
+        "price": "700000"
     },
     {
         "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/mcdonalds-franchise.jpg",
         "name": "McDonalds Franchise",
-        "price": "1,500,000"
+        "price": "1,500000"
     },
     {
         "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/superbowl-ad.jpg",
         "name": "Superbowl Ad",
-        "price": "5,250,000"
+        "price": "5,250000"
     },
     {
         "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/yacht.jpg",
         "name": "Yacht",
-        "price": "7,500,000"
+        "price": "7,500000"
     },
     {
         "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/m1-abrams.jpg",
         "name": "M1 Abrams",
-        "price": "8,000,000"
+        "price": "8,000000"
     },
     {
         "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/formula-1-car.jpg",
         "name": "Formula 1 Car",
-        "price": "15,000,000"
+        "price": "15,000000"
     },
     {
         "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/apache-helicopter.jpg",
         "name": "Apache Helicopter",
-        "price": "31,000,000"
+        "price": "31,000000"
     },
     {
         "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/mansion.jpg",
         "name": "Mansion",
-        "price": "45,000,000"
+        "price": "45,000000"
     },
     {
         "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/make-a-movie.jpg",
         "name": "Make a Movie",
-        "price": "100,000,000"
+        "price": "100000000"
     },
     {
         "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/boeing-747.jpg",
         "name": "Boeing 747",
-        "price": "148,000,000"
+        "price": "148,000000"
     },
     {
         "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/mona-lisa.jpg",
         "name": "Mona Lisa",
-        "price": "780,000,000"
+        "price": "780000000"
     },
     {
         "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/skyscraper.jpg",
         "name": "Skyscraper",
-        "price": "850,000,000"
+        "price": "850000000"
     },
     {
         "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/cruise-ship.jpg",
         "name": "Cruise Ship",
-        "price": "930,000,000"
+        "price": "930000000"
     },
     {
         "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/nba-team.jpg",
         "name": "NBA Team",
-        "price": "2,120,000,000"
+        "price": "2,120000000"
     }
 ]
