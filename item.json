@@ -1,23 +1,60 @@
 {
-    "{img:'',name: 'Big Mac',price: '2'},": {},
-    "{img:'',name: 'Flip Flops',price: '3'},": {},
-    "{img:'',name: 'Coca Cola Pack',price: '5'},": {},
-    "{img:'',name: 'Movie Ticket',price: '12'},": {},
-    "{img:'',name: 'Book',price: '15'},": {},
-    "{img:'',name: 'Lobster Dinner',price: '45'},": {},
-    "{img:'',name: 'Video Game',price: ''},": {},
-    "{img:'',name: 'Amazon Echo',price: ''},": {},
-    "{img:'',name: 'Year of Netflix',price: ''},": {},
-    "{img:'',name: 'Air Jordans',price: ''},": {},
-    "{img:'',name: 'Airpods',price: ''},": {},
-    "{img:'',name: 'Gaming Console',price: ''},": {},
-    "{img:'',name: 'Drone',price: ''},": {},
-    "{img:'',name: 'Smartphone',price: ''},": {},
-    "{img:'',name: 'Bike',price: ''},": {},
-    "{img:'',name: 'Kitten',price: ''},": {},
-    "{img:'',name: 'Puppy',price: ''},": {},
-    "{img:'',name: 'Auto Rickshaw',price: ''},": {},
-    "{img:'',name: 'Horse',price: ''},": {},
-    "{img:'',name: 'Acre of Farmland',price: ''},": {},
-    "{img:'',name: '',price: ''},": {}
+    "img": "",
+    "name": "",
+    "price": ""
+}
+{
+    "img": "",
+    "name": "",
+    "price": ""
+}
+{
+    "img": "",
+    "name": "",
+    "price": ""
+}
+{
+    "img": "",
+    "name": "",
+    "price": ""
+}
+{
+    "img": "",
+    "name": "",
+    "price": ""
+}
+{
+    "img": "",
+    "name": "",
+    "price": ""
+}
+{
+    "img": "",
+    "name": "",
+    "price": ""
+}
+{
+    "img": "",
+    "name": "",
+    "price": ""
+}
+{
+    "img": "",
+    "name": "",
+    "price": ""
+}
+{
+    "img": "",
+    "name": "",
+    "price": ""
+}
+{
+    "img": "",
+    "name": "",
+    "price": ""
+}
+{
+    "img": "",
+    "name": "",
+    "price": ""
 }
