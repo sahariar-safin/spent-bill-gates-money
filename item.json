@@ -1,197 +1,227 @@
 [
-{
-    "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/big-mac.jpg",
-    "name": "Big Mac",
-    "price": "2"
-},
-{
-    "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/flip-flops.jpg",
-    "name": "Flip Flops",
-    "price": "3"
-},
-{
-    "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/coca-cola-pack.jpg",
-    "name": "Coca Cola Pack",
-    "price": "5"
-},
-{
-    "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/movie-ticket.jpg",
-    "name": "Movie Ticket",
-    "price": "12"
-},
-{
-    "img": "",
-    "name": "Book",
-    "price": "15"
-},
-{
-    "img": "",
-    "name": "Lobster Dinner",
-    "price": "45"
-},
-{
-    "img": "",
-    "name": "Video Game",
-    "price": "60"
-},
-{
-    "img": "",
-    "name": "Amazon Echo",
-    "price": "99"
-},
-{
-    "img": "",
-    "name": "Year of Netflix",
-    "price": "100"
-},
-{
-    "img": "",
-    "name": "Air Jordans",
-    "price": "125"
-},
-{
-    "img": "",
-    "name": "Airpods",
-    "price": "199"
-},
-{
-    "img": "",
-    "name": "Gaming Console",
-    "price": "299"
-},
-{
-    "img": "",
-    "name": "Drone",
-    "price": "350"
-},
-{
-    "img": "",
-    "name": "Smartphone",
-    "price": "699"
-},
-{
-    "img": "",
-    "name": "Bike",
-    "price": "800"
-},
-{
-    "img": "",
-    "name": "Kitten",
-    "price": "1500"
-},
-{
-    "img": "",
-    "name": "Puppy",
-    "price": "1500"
-},
-{
-    "img": "",
-    "name": "Auto Rickshaw",
-    "price": "2300"
-},
-{
-    "img": "",
-    "name": "Horse",
-    "price": "2500"
-},
-{
-    "img": "",
-    "name": "Acre of Farmland",
-    "price": "3000"
-},
-{
-    "img": "",
-    "name": "Designer Handbag",
-    "price": "5500"
-},
-{
-    "img": "",
-    "name": "Hot tab",
-    "price": "6000"
-},
-{
-    "img": "",
-    "name": "",
-    "price": ""
-},
-{
-    "img": "",
-    "name": "",
-    "price": ""
-},
-{
-    "img": "",
-    "name": "",
-    "price": ""
-},
-{
-    "img": "",
-    "name": "",
-    "price": ""
-},
-{
-    "img": "",
-    "name": "",
-    "price": ""
-},
-{
-    "img": "",
-    "name": "",
-    "price": ""
-},
-{
-    "img": "",
-    "name": "",
-    "price": ""
-},
-{
-    "img": "",
-    "name": "",
-    "price": ""
-},
-{
-    "img": "",
-    "name": "",
-    "price": ""
-},
-{
-    "img": "",
-    "name": "",
-    "price": ""
-},
-{
-    "img": "",
-    "name": "",
-    "price": ""
-},
-{
-    "img": "",
-    "name": "",
-    "price": ""
-},
-{
-    "img": "",
-    "name": "",
-    "price": ""
-},
-{
-    "img": "",
-    "name": "",
-    "price": ""
-},
-{
-    "img": "",
-    "name": "",
-    "price": ""
-},
-{
-    "img": "",
-    "name": "",
-    "price": ""
-},
-{
-    "img": "",
-    "name": "",
-    "price": ""
-},
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/big-mac.jpg",
+        "name": "Big Mac",
+        "price": "2"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/flip-flops.jpg",
+        "name": "Flip Flops",
+        "price": "3"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/coca-cola-pack.jpg",
+        "name": "Coca Cola Pack",
+        "price": "5"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/movie-ticket.jpg",
+        "name": "Movie Ticket",
+        "price": "12"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/book.jpg",
+        "name": "Book",
+        "price": "15"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/lobster-dinner.jpg",
+        "name": "Lobster Dinner",
+        "price": "45"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/video-game.jpg",
+        "name": "Video Game",
+        "price": "60"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/amazon-echo.jpg",
+        "name": "Amazon Echo",
+        "price": "99"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/year-of-netflix.jpg",
+        "name": "Year of Netflix",
+        "price": "100"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/air-jordans.jpg",
+        "name": "Air Jordans",
+        "price": "125"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/airpods.jpg",
+        "name": "Airpods",
+        "price": "199"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/gaming-console.jpg",
+        "name": "Gaming Console",
+        "price": "299"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/drone.jpg",
+        "name": "Drone",
+        "price": "350"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/smartphone.jpg",
+        "name": "Smartphone",
+        "price": "699"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/bike.jpg",
+        "name": "Bike",
+        "price": "800"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/kitten.jpg",
+        "name": "Kitten",
+        "price": "1500"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/puppy.jpg",
+        "name": "Puppy",
+        "price": "1500"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/auto-rickshaw.jpg",
+        "name": "Auto Rickshaw",
+        "price": "2300"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/horse.jpg",
+        "name": "Horse",
+        "price": "2500"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/acre-of-farmland.jpg",
+        "name": "Acre of Farmland",
+        "price": "3000"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/designer-handbag.jpg",
+        "name": "Designer Handbag",
+        "price": "5500"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/hot-tub.jpg",
+        "name": "Hot tab",
+        "price": "6000"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/luxury-wine.jpg",
+        "name": "Luxury Wine",
+        "price": "7000"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/diamond-ring.jpg",
+        "name": "Diamond Ring",
+        "price": "10000"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/jet-ski.jpg",
+        "name": "Jet Ski",
+        "price": "12000"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/rolex.jpg",
+        "name": "Rolex",
+        "price": "15000"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/ford-f-150.jpg",
+        "name": "Ford F-150",
+        "price": "30000"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/tesla.jpg",
+        "name": "Tesla",
+        "price": "75,000"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/monster-truck.jpg",
+        "name": "Monster Truck",
+        "price": "150,000"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/ferrari.jpg",
+        "name": "Ferrari",
+        "price": "250,000"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/single-family-home.jpg",
+        "name": "Single Family Home",
+        "price": "300,000"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/gold-bar.jpg",
+        "name": "Gold Bar",
+        "price": "700,000"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/mcdonalds-franchise.jpg",
+        "name": "McDonalds Franchise",
+        "price": "1,500,000"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/superbowl-ad.jpg",
+        "name": "Superbowl Ad",
+        "price": "5,250,000"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/yacht.jpg",
+        "name": "Yacht",
+        "price": "7,500,000"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/m1-abrams.jpg",
+        "name": "M1 Abrams",
+        "price": "8,000,000"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/formula-1-car.jpg",
+        "name": "Formula 1 Car",
+        "price": "15,000,000"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/apache-helicopter.jpg",
+        "name": "Apache Helicopter",
+        "price": "31,000,000"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/mansion.jpg",
+        "name": "Mansion",
+        "price": "45,000,000"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/make-a-movie.jpg",
+        "name": "Make a Movie",
+        "price": "100,000,000"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/boeing-747.jpg",
+        "name": "Boeing 747",
+        "price": "148,000,000"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/mona-lisa.jpg",
+        "name": "Mona Lisa",
+        "price": "780,000,000"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/skyscraper.jpg",
+        "name": "Skyscraper",
+        "price": "850,000,000"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/cruise-ship.jpg",
+        "name": "Cruise Ship",
+        "price": "930,000,000"
+    },
+    {
+        "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/nba-team.jpg",
+        "name": "NBA Team",
+        "price": "2,120,000,000"
+    }
 ]
