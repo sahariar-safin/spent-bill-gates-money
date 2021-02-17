@@ -15,6 +15,131 @@
     "price": "5"
 },
 {
+    "img": "https://shafinthedeveloper.github.io/spent-bill-gates-money/images/movie-ticket.jpg",
+    "name": "Movie Ticket",
+    "price": "12"
+},
+{
+    "img": "",
+    "name": "Book",
+    "price": "15"
+},
+{
+    "img": "",
+    "name": "Lobster Dinner",
+    "price": "45"
+},
+{
+    "img": "",
+    "name": "Video Game",
+    "price": "60"
+},
+{
+    "img": "",
+    "name": "Amazon Echo",
+    "price": "99"
+},
+{
+    "img": "",
+    "name": "Year of Netflix",
+    "price": "100"
+},
+{
+    "img": "",
+    "name": "Air Jordans",
+    "price": "125"
+},
+{
+    "img": "",
+    "name": "Airpods",
+    "price": "199"
+},
+{
+    "img": "",
+    "name": "Gaming Console",
+    "price": "299"
+},
+{
+    "img": "",
+    "name": "Drone",
+    "price": "350"
+},
+{
+    "img": "",
+    "name": "Smartphone",
+    "price": "699"
+},
+{
+    "img": "",
+    "name": "Bike",
+    "price": "800"
+},
+{
+    "img": "",
+    "name": "Kitten",
+    "price": "1500"
+},
+{
+    "img": "",
+    "name": "Puppy",
+    "price": "1500"
+},
+{
+    "img": "",
+    "name": "Auto Rickshaw",
+    "price": "2300"
+},
+{
+    "img": "",
+    "name": "Horse",
+    "price": "2500"
+},
+{
+    "img": "",
+    "name": "Acre of Farmland",
+    "price": "3000"
+},
+{
+    "img": "",
+    "name": "Designer Handbag",
+    "price": "5500"
+},
+{
+    "img": "",
+    "name": "Hot tab",
+    "price": "6000"
+},
+{
+    "img": "",
+    "name": "",
+    "price": ""
+},
+{
+    "img": "",
+    "name": "",
+    "price": ""
+},
+{
+    "img": "",
+    "name": "",
+    "price": ""
+},
+{
+    "img": "",
+    "name": "",
+    "price": ""
+},
+{
+    "img": "",
+    "name": "",
+    "price": ""
+},
+{
+    "img": "",
+    "name": "",
+    "price": ""
+},
+{
     "img": "",
     "name": "",
     "price": ""
@@ -53,4 +178,20 @@
     "img": "",
     "name": "",
     "price": ""
-}]
+},
+{
+    "img": "",
+    "name": "",
+    "price": ""
+},
+{
+    "img": "",
+    "name": "",
+    "price": ""
+},
+{
+    "img": "",
+    "name": "",
+    "price": ""
+},
+]
